@@ -2,8 +2,8 @@
 
 ### QA Automation Engineer | Playwright | API Testing | SQL
 
-- 🔭 I'm currently working on **portfolio | khwanchai.vercel.app**
-- 👨‍💻 All of my projects are available at **https://khwanchai.vercel.app**
+- 🔭 I'm currently working on **portfolio | at **https://khwanchai.vercel.app**
+
 
 ---
 
