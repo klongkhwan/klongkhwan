@@ -2,8 +2,14 @@
 
 ### QA Automation Engineer | Playwright | API Testing | SQL
 
-- 🔭 I'm currently working on **portfolio | at **https://khwanchai.vercel.app**
+- 🔭 **portfolio | at **https://khwanchai.vercel.app**
+---
 
+## 🚀 Featured Projects
+
+- 🌐 [Personal Dashboard](https://klongkhwan.vercel.app)
+- 🏢 [Condo Management System](https://condos-kub.vercel.app)
+- 🐾 [Fluffy-Ty — Collaboration](https://fluffy-ty.vercel.app) (with https://github.com/preawwas)
 
 ---
 
