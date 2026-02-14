@@ -3,14 +3,15 @@
 ### QA Automation Engineer | Playwright | API Testing | SQL
 
 - 🔭 I'm currently working on **portfolio | khwanchai.vercel.app**
-- 👨‍💻 All of my projects are available at **https://khwanchai.vercel.app/**
-- 📄 Know about my experiences **https://khwanchai.vercel.app/pdf/Khwanchai_Resume_SoftwareTester.pdf**
+- 👨‍💻 All of my projects are available at **https://khwanchai.vercel.app**
 
 ---
 
 ## 🧪 Testing & QA
 <p align="left">
-<img src="https://skillicons.dev/icons?i=playwright,selenium,postman" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=selenium" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
 </p>
 
 ## 💻 Programming
@@ -34,16 +35,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=klongkhwan&show_icons=true&theme=tokyonight"/>
-</p>
-
-## 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klongkhwan&layout=compact&theme=tokyonight"/>
-</p>
 
 ## 🔥 Contribution Streak
 <p align="center">
