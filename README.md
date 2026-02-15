@@ -9,7 +9,7 @@
 
 - 🌐 [Personal Dashboard](https://klongkhwan.vercel.app)
 - 🏢 [Condo Management System](https://condos-kub.vercel.app)
-- 🐾 [Fluffy-Ty — Collaboration](https://fluffy-ty.vercel.app) (with https://github.com/preawwas)
+- 🐾 [Fluffy-Ty — Collaboration](https://fluffy-ty.vercel.app) with [preawwas](https://github.com/preawwas)
 
 ---
 
